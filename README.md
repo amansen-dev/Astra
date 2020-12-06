@@ -1,5 +1,7 @@
 # Astra
 An All in One Game Hacking Tool For PUBG Mobile.
+Only For Root Don't Try In Non-Root
+It Doesn't Need Any Antiban
 [%c] Created By https://t.me/ERR0Rxx
 
 [!] Join Our Official Telegram Channel For More Updates.
